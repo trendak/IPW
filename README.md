@@ -1,3 +1,3 @@
 # IPW
 
-application created in Laravelu
+application created in Laravel
